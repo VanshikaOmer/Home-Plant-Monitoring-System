@@ -8,8 +8,3 @@ Technologies used :
 
 ---
 
-### Contributers:
- Fardeen Javed Kachawa  
- Siddique Mohammad Kaif  
- Om Mohan Deshmukh  
- Sujal Ganesh Bhatt   
